@@ -12,7 +12,7 @@
   }
   
   header {
-    background-color: #f5ba13;
+    background-color: #657eac;
     margin: auto -16px;
     padding: 16px 32px;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
@@ -33,7 +33,7 @@
   }
   
   footer p {
-    color: #ccc;
+    color: rgb(8, 14, 17);
   }
   .note {
     background: #fff;
